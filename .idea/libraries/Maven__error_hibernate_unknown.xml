@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: error:hibernate:unknown">
+    <CLASSES>
+      <root url="jar://G:/maven/repository/error/hibernate/unknown/hibernate-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://G:/maven/repository/error/hibernate/unknown/hibernate-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://G:/maven/repository/error/hibernate/unknown/hibernate-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
