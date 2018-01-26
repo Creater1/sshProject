@@ -23,4 +23,8 @@ public class UserDAOImpl implements UserDAO {
         Criteria criteria = sessionFactory.getCurrentSession().createCriteria(User.class);
         return criteria.list();
     }
+
+    public int add(User user) {
+        return  (Integer) sessionFactory.getCurrentSession().save(user);
+    }
 }

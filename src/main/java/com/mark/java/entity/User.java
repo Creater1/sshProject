@@ -21,6 +21,17 @@ public class User implements Serializable {
     @Size(min = 3)
     private String username;
 
+    @Size(min = 3)
+    private String password;
+
+    public String getPassword() {
+        return password;
+    }
+
+    public void setPassword(String password) {
+        this.password = password;
+    }
+
     public int getId() {
         return id;
     }

@@ -25,4 +25,8 @@ public class UserServiceImpl implements UserService {
     public List<User> getAllUsernames() {
         return userDao.findAll();
     }
+
+    public void addUser(User user) {
+        userDao.add(user);
+    }
 }
