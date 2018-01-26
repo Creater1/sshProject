@@ -1,0 +1,6 @@
+﻿﻿# Package Files #
+.classpath
+.project
+.settings/
+!build/
+build/classes/

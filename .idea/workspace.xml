@@ -6,21 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65be1ba3-2bd1-43b8-bcad-ab16936b4df4" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/mark/java/controller/MainController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/mark/java/impl/UserServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/mark/java/service/UserService.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/sshProjec_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/sshProjec_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/mark/java/controller/MainController.java" afterPath="$PROJECT_DIR$/src/main/java/com/mark/java/controller/MainController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/mark/java/impl/UserServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/mark/java/impl/UserServiceImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/mark/java/service/UserService.java" afterPath="$PROJECT_DIR$/src/main/java/com/mark/java/service/UserService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/META-INF/applicationContext.xml" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/applicationContext.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sshProjec.iml" afterPath="$PROJECT_DIR$/sshProjec.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/ssh/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/target/ssh/WEB-INF/web.xml" />
-    </list>
+    <list default="true" id="65be1ba3-2bd1-43b8-bcad-ab16936b4df4" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -458,12 +444,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1516877410466</updated>
-      <workItem from="1516877414463" duration="14147000" />
+      <workItem from="1516877414463" duration="14800000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14147000" />
+    <option name="totallyTimeSpent" value="14800000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
